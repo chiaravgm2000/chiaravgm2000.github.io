@@ -1,0 +1,131 @@
+@font-face {
+    font-family: "Dancing-Bold";
+    src: url("../fonts/Dancing_Script/DancingScript-Bold.ttf");
+  }
+@font-face {
+    font-family: "Dancing-Regular";
+    src: url("../fonts/Dancing_Script/DancingScript-Regular.ttf");
+  }
+  @font-face {
+    font-family: "IBM-Bold";
+    src: url("../fonts/IBM_Plex_Sans/IBMPlexSans-Bold.ttf");
+  }
+  @font-face {
+    font-family: "IBM-Regular";
+    src: url("../fonts/IBM_Plex_Sans/IBMPlexSans-Regular.ttf");
+  }
+
+header {
+    background-color:#e2d1c9 ;
+}
+h4 {
+    font-family: "IBM-Regular";
+    color: #5A4E48;
+}
+p {
+    font-family: "IBM-Regular";
+    color: #5A4E48;
+}
+h2 {
+    font-family: "IBM-Bold";
+    color: #5A4E48;
+}
+
+h6 {
+    font-family: "IBM-Regular";
+    color: #5A4E48;
+}
+
+h3 {
+    font-family: "Dancing-Regular";
+    color: #5A4E48;
+}
+h5 {
+    font-family: "Dancing-Regular";
+    color: #5A4E48;
+
+}
+.brand {
+    width: 100%;
+}
+
+.navbar a {
+    text-decoration: none;
+    color: rgb(46, 45, 45);
+}
+
+.home-img-fluid {
+    width: 100%;
+}
+
+.shopbutton {
+    opacity: 1;
+    transition: opacity 600ms ease;
+    padding: 10px 45px;
+    background-color: #CDC0B9;
+    text-decoration: none;
+    color: #5A4E48;
+}
+
+  
+  .shopbutton:hover {
+    opacity: 0.5;
+    color: black;
+  }
+
+
+.logoinfo{
+    height: 120px;
+    width: 120px;
+}
+.textinfo{
+    width: 70%;
+    margin: auto;
+    text-align: center;
+    
+}
+.mandala-container {
+    background-color: #F8F4F2;
+}
+.footer {
+    background-color:#e2d1c9 ;
+    text-align: center;
+}
+.footer a {
+    text-decoration: none;
+    color: #5A4E48;
+}
+
+.img-info {
+    max-width: 100%;
+    max-height: 250px;
+    height: 250px;
+}
+
+.pictures-small {
+    width: 100%;
+}
+
+.container-img-picture{
+    margin-top: 15px;
+    display: flex;
+    justify-content: center;
+}
+
+.picture-img-fluid {
+    width: 100%;
+}
+
+.form-section {
+    width: 80%;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+}
+.container-body {
+    height: 100%;
+}
+.social_icon {
+    height: 25px;
+    margin-right: 5px;
+}
